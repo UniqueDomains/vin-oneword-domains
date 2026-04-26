@@ -1,22 +1,22 @@
-# Available .VIN One-Word Domains (9,396)
+# Available .VIN One-Word Domains (11,971)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C396%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C396%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C971%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .vin one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .vin one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,971 domains** on the canonical page below.
 
-**Public extract:** 9,396 rows · **Live catalog:** 9,396 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,971 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/vin`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .VIN one-word domain c
 
 ### Files
 
-- `vin.csv` — public CSV extract (9,396 rows)
-- `vin.json` — public JSON extract (9,396 rows)
+- `vin.csv` — public CSV extract (1,000 rows)
+- `vin.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| brain.vin    | available | $11.99    | —             | 72             | 47     | 5      | name.com                                     |
-| air.vin      | resell    | $75.98    | —             | 84             | 49     | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| business.vin | premium   | $85.80    | $85.80        | 100            | 53     | 8      | namecheap                                    |
-| snap.vin     | available | $11.99    | $77.99        | 90             | 46     | 4      | name.com                                     |
-| news.vin     | resell    | —         | —             | 100            | 64     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| alpha.vin    | premium   | $250      | $250          | 90             | 53     | 5      | name.com                                     |
-| discord.vin  | available | $11.99    | —             | 70             | 46     | 7      | name.com                                     |
-| home.vin     | resell    | —         | —             | 100            | 62     | 4      | DNSPod, Inc.                                 |
-| one.vin      | premium   | $500      | $500          | 132            | 51     | 3      | name.com                                     |
-| creator.vin  | available | $11.99    | $77.99        | 70             | 45     | 7      | name.com                                     |
-| fun.vin      | resell    | —         | —             | 90             | 62     | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| life.vin     | premium   | $260      | $260          | 84             | 50     | 4      | namecheap                                    |
-| forge.vin    | available | $11.99    | $77.99        | 62             | 44     | 5      | name.com                                     |
-| space.vin    | resell    | —         | —             | 80             | 61     | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
-| simple.vin   | premium   | $123.75   | $123.75       | 128            | 49     | 6      | name.com                                     |
-| wizard.vin   | available | $11.99    | $77.99        | 118            | 43     | 6      | name.com                                     |
-| code.vin     | resell    | —         | —             | 72             | 61     | 4      | UM DOMAINS PTE. LTD                          |
-| real.vin     | premium   | $85.80    | $85.80        | 78             | 49     | 4      | namecheap                                    |
-| track.vin    | available | $11.99    | $77.99        | 94             | 42     | 5      | name.com                                     |
-| open.vin     | resell    | —         | —             | 106            | 60     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| prompts.vin      | available | $11.99    | —             | 54             | 39     | 7      | name.com     |
+| coins.vin        | resell    | —         | —             | 56             | 41     | 5      | DNSPod, Inc. |
+| bonappetit.vin   | premium   | $123.75   | —             | 86             | 8      | 11     | name.com     |
+| neuroscience.vin | available | $11.99    | —             | 80             | 37     | 12     | name.com     |
+| alcoholfree.vin  | premium   | $82.50    | —             | 70             | 6      | 12     | name.com     |
+| etc.vin          | available | $11.99    | —             | 58             | 34     | 3      | name.com     |
+| teams.vin        | available | $11.99    | —             | 62             | 32     | 5      | name.com     |
+| trends.vin       | available | $11.99    | —             | 60             | 32     | 6      | name.com     |
+| letsgo.vin       | available | $11.99    | —             | 57             | 31     | 7      | name.com     |
+| solutions.vin    | available | $11.99    | —             | 56             | 31     | 9      | name.com     |
+| rewards.vin      | available | $11.99    | —             | 62             | 30     | 7      | name.com     |
+| popup.vin        | available | $11.99    | —             | 84             | 29     | 6      | name.com     |
+| SanDiego.vin     | available | $11.99    | —             | 74             | 29     | 9      | name.com     |
+| quotes.vin       | available | $11.99    | —             | 58             | 29     | 6      | name.com     |
+| blocks.vin       | available | $11.99    | —             | 53             | 29     | 6      | name.com     |
+| cams.vin         | available | $11.99    | —             | 52             | 29     | 4      | name.com     |
+| pages.vin        | available | $11.99    | —             | 52             | 28     | 5      | name.com     |
+| backyard.vin     | available | $11.99    | —             | 80             | 27     | 9      | name.com     |
+| KFC.vin          | available | $75.98    | —             | 74             | 27     | 3      | namecheap    |
+| trades.vin       | available | $11.99    | —             | 71             | 26     | 6      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,396-row public sample | 9,396 live domains                               |
+| 1,000-row public sample | 11,971 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIN One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIN One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
