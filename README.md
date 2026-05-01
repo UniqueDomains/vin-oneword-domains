@@ -1,10 +1,10 @@
-# Available .VIN One-Word Domains (11,971)
+# Available .VIN One-Word Domains (12,368)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C971%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C368%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .vin one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,971 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,368 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,971 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,368 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/vin`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| prompts.vin      | available | $11.99    | —             | 54             | 39     | 7      | name.com     |
-| coins.vin        | resell    | —         | —             | 56             | 41     | 5      | DNSPod, Inc. |
-| bonappetit.vin   | premium   | $123.75   | —             | 86             | 8      | 11     | name.com     |
-| neuroscience.vin | available | $11.99    | —             | 80             | 37     | 12     | name.com     |
-| alcoholfree.vin  | premium   | $82.50    | —             | 70             | 6      | 12     | name.com     |
-| etc.vin          | available | $11.99    | —             | 58             | 34     | 3      | name.com     |
-| teams.vin        | available | $11.99    | —             | 62             | 32     | 5      | name.com     |
-| trends.vin       | available | $11.99    | —             | 60             | 32     | 6      | name.com     |
-| letsgo.vin       | available | $11.99    | —             | 57             | 31     | 7      | name.com     |
-| solutions.vin    | available | $11.99    | —             | 56             | 31     | 9      | name.com     |
-| rewards.vin      | available | $11.99    | —             | 62             | 30     | 7      | name.com     |
-| popup.vin        | available | $11.99    | —             | 84             | 29     | 6      | name.com     |
-| SanDiego.vin     | available | $11.99    | —             | 74             | 29     | 9      | name.com     |
-| quotes.vin       | available | $11.99    | —             | 58             | 29     | 6      | name.com     |
-| blocks.vin       | available | $11.99    | —             | 53             | 29     | 6      | name.com     |
-| cams.vin         | available | $11.99    | —             | 52             | 29     | 4      | name.com     |
-| pages.vin        | available | $11.99    | —             | 52             | 28     | 5      | name.com     |
-| backyard.vin     | available | $11.99    | —             | 80             | 27     | 9      | name.com     |
-| KFC.vin          | available | $75.98    | —             | 74             | 27     | 3      | namecheap    |
-| trades.vin       | available | $11.99    | —             | 71             | 26     | 6      | name.com     |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| prompts.vin     | available | $11.99    | —             | 54             | 39     | 7      | name.com     |
+| coins.vin       | resell    | —         | —             | 56             | 41     | 5      | DNSPod, Inc. |
+| bonappetit.vin  | premium   | $123.75   | —             | 86             | 8      | 11     | name.com     |
+| etc.vin         | available | $11.99    | —             | 58             | 34     | 3      | name.com     |
+| alcoholfree.vin | premium   | $82.50    | —             | 70             | 6      | 12     | name.com     |
+| teams.vin       | available | $11.99    | —             | 62             | 32     | 5      | name.com     |
+| trends.vin      | available | $11.99    | —             | 60             | 32     | 6      | name.com     |
+| solutions.vin   | available | $11.99    | —             | 56             | 31     | 9      | name.com     |
+| rewards.vin     | available | $11.99    | —             | 62             | 30     | 7      | name.com     |
+| popup.vin       | available | $11.99    | —             | 84             | 29     | 6      | name.com     |
+| SanDiego.vin    | available | $11.99    | —             | 74             | 29     | 9      | name.com     |
+| blocks.vin      | available | $11.99    | —             | 53             | 29     | 6      | name.com     |
+| cams.vin        | available | $11.99    | —             | 52             | 29     | 4      | name.com     |
+| pages.vin       | available | $11.99    | —             | 52             | 28     | 5      | name.com     |
+| backyard.vin    | available | $11.99    | —             | 80             | 27     | 9      | name.com     |
+| KFC.vin         | available | $75.98    | —             | 74             | 27     | 3      | namecheap    |
+| trades.vin      | available | $11.99    | —             | 71             | 26     | 6      | name.com     |
+| has.vin         | available | $11.99    | —             | 60             | 26     | 3      | name.com     |
+| traders.vin     | available | $11.99    | —             | 60             | 26     | 7      | name.com     |
+| sites.vin       | available | $11.99    | —             | 53             | 26     | 5      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,971 live domains                              |
+| 1,000-row public sample | 12,368 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIN One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIN One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
