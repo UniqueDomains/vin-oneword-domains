@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .vin one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,382 domains · **Median ask:** $22.40 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/vin`  
 **Best for:** founders, investors, studios
 
@@ -73,10 +73,10 @@ print(df.head())
 | trends.vin      | available | $11.99    | —             | 60             | 32     | 6      | name.com     |
 | solutions.vin   | available | $11.99    | —             | 56             | 31     | 9      | name.com     |
 | rewards.vin     | available | $11.99    | —             | 62             | 30     | 7      | name.com     |
-| popup.vin       | available | $11.99    | —             | 84             | 29     | 6      | name.com     |
 | SanDiego.vin    | available | $11.99    | —             | 74             | 29     | 9      | name.com     |
 | blocks.vin      | available | $11.99    | —             | 53             | 29     | 6      | name.com     |
 | cams.vin        | available | $11.99    | —             | 52             | 29     | 4      | name.com     |
+| popup.vin       | available | $11.99    | —             | 84             | 28     | 6      | name.com     |
 | pages.vin       | available | $11.99    | —             | 52             | 28     | 5      | name.com     |
 | backyard.vin    | available | $11.99    | —             | 80             | 27     | 9      | name.com     |
 | KFC.vin         | available | $75.98    | —             | 74             | 27     | 3      | namecheap    |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIN One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIN One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
