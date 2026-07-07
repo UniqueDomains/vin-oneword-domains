@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .vin one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,382 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,382 domains · **Median ask:** $22.40 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,382 domains · **Median ask:** $19.34 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/vin`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/vin`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .VIN one-word domain c
 
 ### Files
 
-- `vin.csv` — public CSV extract (1,000 rows)
-- `vin.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `vin.csv`, public CSV extract (1,000 rows)
+- `vin.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| prompts.vin     | available | $11.99    | —             | 54             | 39     | 7      | name.com     |
-| coins.vin       | resell    | —         | —             | 56             | 41     | 5      | DNSPod, Inc. |
-| bonappetit.vin  | premium   | $123.75   | —             | 86             | 8      | 11     | name.com     |
-| etc.vin         | available | $11.99    | —             | 58             | 34     | 3      | name.com     |
-| alcoholfree.vin | premium   | $82.50    | —             | 70             | 6      | 12     | name.com     |
-| teams.vin       | available | $11.99    | —             | 62             | 32     | 5      | name.com     |
-| trends.vin      | available | $11.99    | —             | 60             | 32     | 6      | name.com     |
-| solutions.vin   | available | $11.99    | —             | 56             | 31     | 9      | name.com     |
-| rewards.vin     | available | $11.99    | —             | 62             | 30     | 7      | name.com     |
-| SanDiego.vin    | available | $11.99    | —             | 74             | 29     | 9      | name.com     |
-| blocks.vin      | available | $11.99    | —             | 53             | 29     | 6      | name.com     |
-| cams.vin        | available | $11.99    | —             | 52             | 29     | 4      | name.com     |
-| popup.vin       | available | $11.99    | —             | 84             | 28     | 6      | name.com     |
-| pages.vin       | available | $11.99    | —             | 52             | 28     | 5      | name.com     |
-| backyard.vin    | available | $11.99    | —             | 80             | 27     | 9      | name.com     |
-| KFC.vin         | available | $75.98    | —             | 74             | 27     | 3      | namecheap    |
-| trades.vin      | available | $11.99    | —             | 71             | 26     | 6      | name.com     |
-| has.vin         | available | $11.99    | —             | 60             | 26     | 3      | name.com     |
-| traders.vin     | available | $11.99    | —             | 60             | 26     | 7      | name.com     |
-| sites.vin       | available | $11.99    | —             | 53             | 26     | 5      | name.com     |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| axe.vin   | available | $11.99    | —             | medium         | low    | 3      | name.com                                     |
+| air.vin   | resell    | $11.99    | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| Ava.vin   | premium   | $500      | —             | high           | medium | 3      | name.com                                     |
+| cap.vin   | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| drone.vin | resell    | $11.99    | —             | high           | medium | 5      | Dynadot Inc                                  |
+| moi.vin   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
+| end.vin   | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| for.vin   | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                 |
+| usa.vin   | premium   | $242      | $242          | high           | medium | 3      | namesilo                                     |
+| hum.vin   | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| fun.vin   | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| web.vin   | premium   | $500      | —             | high           | medium | 3      | name.com                                     |
+| ive.vin   | available | $11.99    | —             | medium         | low    | 3      | name.com                                     |
+| hit.vin   | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                              |
+| wow.vin   | premium   | $242      | $242          | high           | medium | 3      | namesilo                                     |
+| lip.vin   | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| free.vin  | resell    | —         | —             | high           | medium | 4      | NameSilo, LLC                                |
+| yes.vin   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                     |
+| odd.vin   | available | $11.99    | $77.99        | high           | low    | 3      | name.com                                     |
+| block.vin | resell    | —         | —             | medium         | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .vin domains. The set ranges from direct, simple terms such as clean.vin and office.vin to broader words like society.vin and extraordinary.vin. For founders, the best choices are usually the names that are easy to say, easy to spell, and closely aligned with a wine-related brand or product. For investors, the key question is whether the word has enough commercial meaning inside the .vin extension to support resale interest. With a median ask of 22.41, price discipline matters less than choosing words with clear fit, strong recall, and manageable renewal expectations.
+This list covers one-word .vin domain names — compact, single-token names without hyphens or numbers, spanning everyday words, short phrases, and brandable terms like flaxseed.vin or makesense.vin. With 12,382 domains and a median ask near $19, most of this selection remains inexpensive to acquire outright, giving investors scanning for volume and founders searching for a memorable name plenty to evaluate. Updated daily, the list reflects current asking prices across the .vin extension.
 
-- Prefer words that fit wine, hospitality, retail, or tasting
-- Short, clear spelling usually improves recall and trust
-- Check if the word feels natural with the .vin extension
-- Avoid terms with possible trademark or weak commercial fit
+- 12,382 one-word .vin domain names in this set
+- Median asking price near $19 across the list
+- Single-token names — no hyphens or numbers
+- Updated daily to reflect current asking prices
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIN One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
