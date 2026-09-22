@@ -49,7 +49,7 @@ b3a76412-6e10-462d-bce2-0ac339f5e473,different.vin,available,11.99,77.99,high,lo
 1ad258aa-2af2-4890-8df7-a1258c0d9acc,armlike.vin,available,6.98,75.98,low,low,7,namecheap,,,06/08/2026 19:59
 930ec1d5-a4be-4070-bc66-d413621faf91,sanmarino.vin,available,,,high,low,10,,,,
 94916f6e-ffc9-43e8-9125-b857b3707956,broaden.vin,available,11.99,,medium,low,7,name.com,,,
-c9e01e71-3a64-488d-a3fe-811947b291eb,admired.vin,available,11.99,77.99,high,low,7,name.com,,,
+c9e01e71-3a64-488d-a3fe-811947b291eb,admired.vin,available,6.98,75.98,low,low,7,namecheap,,,21/09/2026 18:53
 1f8abb22-1064-4ebe-b2fa-0fd822495ad4,spheric.vin,available,6.98,75.98,low,low,7,namecheap,,,08/08/2026 10:16
 e20b81f1-3e0e-4be8-a559-bc0498bdb469,mother.vin,available,11.99,,high,low,6,name.com,,,
 07c3bdbd-c084-453e-b411-ecda33015a21,shaking.vin,available,11.99,,medium,low,7,name.com,,,
@@ -79,7 +79,7 @@ eed4512c-79c5-4188-9282-1fead0d2fd97,wharf.vin,available,11.99,,high,low,5,name.
 355ef5b6-32ce-44a6-8816-82cae5b3d1b9,crossroads.vin,available,11.99,,medium,low,10,name.com,,,
 dd2ad7e7-4e28-4e26-b58b-8900b7c7144a,untrustworthy.vin,available,11.99,,low,low,13,name.com,,,
 d308d0b8-8d1c-4bf2-8be7-7771968f1b8b,experimental.vin,available,11.99,,high,low,12,name.com,,,
-a3ca27ea-a47a-418c-9900-ee0ca994fd55,abounding.vin,available,6.98,75.98,low,low,9,namecheap,,,
+a3ca27ea-a47a-418c-9900-ee0ca994fd55,abounding.vin,available,6.98,75.98,medium,low,9,namecheap,,,
 5451b9fd-a85a-4669-a796-a2a2470c5b3f,themasses.vin,available,11.99,,low,low,10,name.com,,,
 9e0c9011-2585-46e4-b629-01f307aa084c,spiritual.vin,available,6.98,75.98,medium,low,9,namecheap,,,06/08/2026 05:42
 5fe6ca11-8ae3-487e-ab83-3c375e544877,roomy.vin,available,11.99,,high,low,5,name.com,,,
@@ -142,9 +142,9 @@ a9d57cf6-2ec7-4239-b991-138ea1800107,goat.vin,available,11.99,,medium,medium,4,n
 73baac12-b641-4feb-aff8-b0622a3ef75a,shh.vin,available,11.99,,medium,low,3,name.com,,,
 2ccc7f3b-80b8-417e-b162-8fd27c47185e,sumbuddy.vin,available,11.99,,medium,low,8,name.com,,,
 dd0c98d8-9542-4c3b-bf18-f9276f282b7c,complaint.vin,available,11.99,,medium,low,9,name.com,,,
-762d9bf2-b3de-4be8-ad5b-4d41d6ef73b6,fillin.vin,available,11.99,,high,low,7,name.com,,,
+762d9bf2-b3de-4be8-ad5b-4d41d6ef73b6,fillin.vin,available,8.99,59.99,low,low,7,namesilo,,,21/09/2026 16:17
 3da08a0d-9112-4d55-9af5-cfeb195901b9,halfass.vin,available,11.99,,medium,low,8,name.com,,,
-de1ef93f-1627-4216-bb5f-0aff0913cade,infront.vin,available,11.99,77.99,medium,low,8,name.com,,,
+de1ef93f-1627-4216-bb5f-0aff0913cade,infront.vin,available,8.99,59.99,low,low,8,namesilo,,,21/09/2026 23:30
 e28033a9-3f9a-45c6-803e-1a32b09be02c,iaskyou.vin,available,11.99,,medium,low,9,name.com,,,
 32b222a3-2d61-470b-8528-659d92177fa3,sofarsogood.vin,available,11.99,,medium,low,14,name.com,,,
 d5769934-c14f-46c6-8dcd-d98d86f9cda6,reassuringly.vin,available,11.99,,medium,low,12,name.com,,,
@@ -154,8 +154,8 @@ c427a81c-1987-4e85-9569-77ea8f3247e7,hermitic.vin,available,6.98,75.98,low,low,8
 4a5f05a2-646a-4861-8e8b-35255be8af74,theyre.vin,available,11.99,,medium,low,6,name.com,,,
 766d4aa7-1a4b-4a71-a3be-b33fb359e152,inplace.vin,available,11.99,,medium,low,8,name.com,,,
 47591d2f-bfc6-4005-8121-d03bb5623ef5,advantage.vin,available,11.99,,high,low,9,name.com,,,
-06ca65e6-5f0f-4053-bc57-97d9b9b77c56,alluring.vin,available,11.99,77.99,high,low,8,name.com,,,
-ac3ce7b3-fbf2-4c0b-b2dc-76be545d43a7,alkaline.vin,available,11.99,77.99,high,low,8,name.com,,,
+06ca65e6-5f0f-4053-bc57-97d9b9b77c56,alluring.vin,available,8.99,59.99,medium,low,8,namesilo,,,22/09/2026 01:34
+ac3ce7b3-fbf2-4c0b-b2dc-76be545d43a7,alkaline.vin,available,8.99,59.99,medium,low,8,namesilo,,,22/09/2026 00:14
 30ec3a5f-6676-4542-8d2d-46cf9eea7ef1,forest.vin,available,6.98,75.98,low,low,6,namecheap,,,19/09/2026 06:42
 1a9ebd50-f2c5-400f-9399-a2bdff6e184e,thoughtless.vin,available,11.99,,medium,low,11,name.com,,,
 e6ad639c-87e3-4b57-9dc6-6722e117d913,tercet.vin,available,6.98,75.98,low,low,6,namecheap,,,
@@ -178,7 +178,7 @@ d64dafa8-da2a-4cf7-8d12-cdc6d2dd644c,main.vin,available,11.99,,high,low,4,name.c
 0bf7d533-49bb-49e6-b664-c9b357afbe92,keepup.vin,available,11.99,,high,low,7,name.com,,,
 68ee04d4-9bd8-4817-8068-cdb5e9f6a75e,checkover.vin,available,11.99,,high,low,10,name.com,,,
 ab798624-edcd-46ec-86ce-5fe71c6a4b79,duplicate.vin,available,11.99,77.99,high,low,9,name.com,,,
-f0ce8e64-8706-48cc-b748-3230c0166977,acidreflux.vin,available,11.99,,medium,low,11,name.com,,,
+f0ce8e64-8706-48cc-b748-3230c0166977,acidreflux.vin,available,11.99,,low,low,11,name.com,,,
 5aa340be-6327-4752-9421-2fb794eb961c,streetfighter.vin,available,11.99,,low,low,14,name.com,,,
 e9c59377-4d94-4dc4-b472-02f88bbf262c,aspherical.vin,available,6.98,75.98,low,low,10,namecheap,,,07/08/2026 04:57
 cbf4f9de-db8f-4f80-8ae7-5940e0b59f17,moderately.vin,available,11.99,,medium,low,10,name.com,,,
@@ -195,8 +195,8 @@ aec805e8-651d-4cb4-a70e-490064f27244,incommon.vin,available,11.99,,medium,low,9,
 9858f23d-f1ff-4dae-85c2-a18d37b54d45,aphotic.vin,available,6.98,75.98,low,low,7,namecheap,,,05/08/2026 23:37
 203c38d9-6a9b-4d56-8f8f-179f8d35eb9e,leavethechat.vin,available,11.99,,high,low,14,name.com,,,
 9aa8fbe7-2106-49ab-a744-6f939f62af7c,march.vin,available,,,high,low,5,,,,
-6262eefb-9f82-41a9-912f-527caab1df40,xvi.vin,available,11.99,77.99,medium,low,3,name.com,,,
-a2c449aa-43b7-45f3-a5ae-f2564bcadd94,hunkydory.vin,available,11.99,77.99,high,low,10,name.com,,,
+6262eefb-9f82-41a9-912f-527caab1df40,xvi.vin,available,8.99,59.99,low,low,3,namesilo,,,21/09/2026 11:49
+a2c449aa-43b7-45f3-a5ae-f2564bcadd94,hunkydory.vin,available,6.98,75.98,medium,low,10,namecheap,,,22/09/2026 01:09
 e06dca34-299c-45a8-9cf8-5d5ee369c840,nondrinker.vin,available,6.98,75.98,low,low,10,namecheap,,,
 ec63a95b-ae0d-439e-9b4d-a5e9e36ba157,retain.vin,available,11.99,,high,low,6,name.com,,,
 b4c3455c-0744-48b6-8b18-78b6155e5877,midfebruary.vin,available,11.99,,high,low,12,name.com,,,
@@ -283,7 +283,7 @@ c58a185e-30fc-4785-8ddf-da411c06323f,coding.vin,available,11.99,,high,low,6,name
 a50529c3-d5d6-478c-85d0-3c2f12bc8987,aleatory.vin,available,6.98,75.98,low,low,8,namecheap,,,
 5f51e817-55cb-4d17-96ac-edbf98c97121,finale.vin,available,11.99,,high,low,6,name.com,,,
 559de7ba-7221-4588-ae78-f5bce635206a,giddy.vin,available,6.98,75.98,low,low,5,namecheap,,,
-3d13af2b-bd0d-4391-97c7-d946a83849bc,eternal.vin,available,11.99,77.99,high,medium,7,name.com,,,
+3d13af2b-bd0d-4391-97c7-d946a83849bc,eternal.vin,available,8.99,59.99,medium,low,7,namesilo,,,21/09/2026 22:47
 41e1440f-ea87-4470-817a-ec5d368b8e4e,unemployment.vin,available,11.99,,low,low,12,name.com,,,
 4837dfaf-cf1e-40fe-ae2b-2cae22d994ec,irons.vin,available,11.99,,medium,low,5,name.com,,,
 835712d0-776c-4871-971d-255c60d1309d,mills.vin,available,11.99,,medium,low,5,name.com,,,
@@ -357,13 +357,13 @@ b290c020-7c10-4f60-a38b-f206cffd0319,measure.vin,available,11.99,,high,low,7,nam
 2d9e2e60-abb7-4620-81cc-f6fb5acc174c,ocean.vin,available,11.99,,high,low,5,name.com,,,
 67c6b4dc-7cb4-4aac-96f5-50d48403a649,uncommitted.vin,available,11.99,,medium,low,11,name.com,,,
 bf4f0d9d-a4f1-408a-b076-48c25bd39d0e,youngest.vin,available,11.99,,high,low,8,name.com,,,
-25e726bb-f906-47c8-9168-420420d6040e,alike.vin,available,11.99,77.99,high,low,5,name.com,,,
-4a523e68-acc5-4a17-8868-d0b7e879af99,eleven.vin,available,11.99,77.99,high,low,6,name.com,,,
+25e726bb-f906-47c8-9168-420420d6040e,alike.vin,available,8.99,59.99,low,low,5,namesilo,,,21/09/2026 23:59
+4a523e68-acc5-4a17-8868-d0b7e879af99,eleven.vin,available,8.99,59.99,medium,low,6,namesilo,,,21/09/2026 11:20
 0e672eac-e80c-47fa-99e7-4cfc92d2f341,aircooled.vin,available,6.98,75.98,low,low,10,namecheap,,,
 86619e06-1207-4dd0-9206-b7854d491694,allergist.vin,available,11.99,,medium,low,9,name.com,,,
 52b01123-c6f6-4c59-ab13-c8989362fc71,operose.vin,available,6.98,75.98,low,low,7,namecheap,,,06/08/2026 17:05
 7a27f07e-39a6-496e-b6b5-abe7403422dc,boomorbust.vin,available,11.99,,high,low,12,name.com,,,
-7dee9c3b-14bd-43b0-bc04-e627fbbcb0c0,aggressive.vin,available,11.99,77.99,high,low,10,name.com,,,
+7dee9c3b-14bd-43b0-bc04-e627fbbcb0c0,aggressive.vin,available,11.99,77.99,medium,low,10,name.com,,,21/09/2026 22:59
 0c305d7f-5782-45cc-a74b-fe3f61a16051,allowance.vin,available,11.99,,high,low,9,name.com,,,
 7e9de09e-c121-4d1b-acb9-a9058a574392,achaean.vin,available,6.98,75.98,low,low,7,namecheap,,,
 b9fe2597-be81-4078-bd46-2f5bb82e748b,crisp.vin,available,11.99,77.99,medium,low,5,name.com,,,
@@ -422,7 +422,7 @@ bca9c584-d9d2-4c77-971a-b1ef51af83b7,undefended.vin,available,6.98,75.98,low,low
 0c311eaf-7913-49b7-8f04-5895eb8baadf,eased.vin,available,6.98,75.98,low,low,5,namecheap,,,
 5662d407-f14b-4ec6-be34-0be898b69f93,bloodpressure.vin,available,11.99,,high,low,14,name.com,,,
 f4dd3222-b5cf-4e5c-9334-3442acfcde37,areal.vin,available,6.98,75.98,low,low,5,namecheap,,,06/08/2026 17:21
-8470ca5e-b1f8-4378-b1a7-23969bc27e70,abhorrent.vin,available,11.99,77.99,medium,low,9,name.com,,,
+8470ca5e-b1f8-4378-b1a7-23969bc27e70,abhorrent.vin,available,8.99,59.99,low,low,9,namesilo,,,21/09/2026 13:49
 a85c8d8a-1a1e-4513-92ba-a0c7a57f11a3,balls.vin,available,11.99,,high,low,5,name.com,,,
 9f80bf5e-d44c-4e82-9e2d-c2c59b3a05c4,idoubtit.vin,available,11.99,,medium,low,10,name.com,,,
 a785cf90-f45b-434d-b9c0-ac78fb6694da,steer.vin,available,11.99,,medium,low,5,name.com,,,
@@ -430,11 +430,11 @@ acf1d0b8-5e0b-4574-b060-28acb7a5b7b3,actionadventure.vin,available,11.99,,high,l
 c06761bc-dcc8-4b90-8582-8e9b44646915,await.vin,available,11.99,,high,low,5,name.com,,,
 d8af778f-ccce-43d5-a6b0-96db0f316283,whocares.vin,available,11.99,,low,low,9,name.com,,,
 395b99a1-2cb6-4638-bbfe-716e758231b1,fever.vin,available,11.99,,high,low,5,name.com,,,
-4ef5f628-eead-4e7e-bfaf-e447d4f4a91a,sensation.vin,available,11.99,77.99,high,low,9,name.com,,,
+4ef5f628-eead-4e7e-bfaf-e447d4f4a91a,sensation.vin,available,8.99,59.99,medium,low,9,namesilo,,,21/09/2026 17:34
 38eab5c8-475d-4867-a694-aad40635c4c4,whitehouse.vin,available,11.99,,medium,low,11,name.com,,,
 ebbdf73c-a4f5-4d56-bba7-4204371d4688,howaboutno.vin,available,11.99,,medium,low,12,name.com,,,
 a3a37879-c8ba-46b2-9c7b-4d556dd0bef4,haveseenthisfilm.vin,available,11.99,,medium,low,19,name.com,,,
-a9b195a1-462e-4901-a587-5eade78d1168,maker.vin,available,11.99,77.99,high,low,5,name.com,,,
+a9b195a1-462e-4901-a587-5eade78d1168,maker.vin,available,11.99,77.99,low,low,5,name.com,,,22/09/2026 01:52
 f1fc9a43-b076-4040-a26b-a4740eb0802f,azygous.vin,available,6.98,75.98,low,low,7,namecheap,,,08/08/2026 03:27
 a3da4117-f87c-4738-bfa7-6ed4cb805e6a,amebic.vin,available,6.98,75.98,low,low,6,namecheap,,,
 d3439a99-e410-49c5-a85a-401f2679004b,when.vin,available,11.99,,high,low,4,name.com,,,
@@ -494,7 +494,7 @@ ecc1006a-9372-4c1b-b514-78a76de94301,prepacked.vin,available,11.99,,medium,low,9
 8c855c7f-c9ca-4d9d-88b0-28650ee46068,farmstand.vin,available,11.99,,high,low,10,name.com,,,
 35d010d4-7d58-48e1-8d4a-d23f72f1de43,baric.vin,available,6.98,75.98,low,low,5,namecheap,,,08/08/2026 19:31
 6ad43c99-ef83-4aff-8348-9399aefe09ad,president.vin,available,11.99,,high,low,9,name.com,,,
-69718fdd-fc27-47b9-845a-0c9492d61d80,trio.vin,available,11.99,77.99,high,low,4,name.com,,,
+69718fdd-fc27-47b9-845a-0c9492d61d80,trio.vin,available,8.99,59.99,medium,low,4,namesilo,,,21/09/2026 13:05
 28a3f46d-180c-4bb7-84b7-0af01f116c1a,goodenough.vin,available,11.99,,high,low,11,name.com,,,
 c9de0d28-1cca-4d01-97bc-4b9f4c061da7,upatree.vin,available,11.99,,low,low,9,name.com,,,
 bd42aab9-47b5-4537-8dca-8d4e2a6df4ab,task.vin,available,11.99,,high,low,4,name.com,,,
@@ -506,12 +506,12 @@ f88558c0-ea30-4394-87d6-a82740397492,restructure.vin,available,11.99,,high,low,1
 e50ad2bd-e04e-42fb-afd8-dc42b153027d,banana.vin,available,,,high,low,6,,,,
 a29c6e17-e1fa-4506-a13c-c3242f422222,racing.vin,available,11.99,,high,low,6,name.com,,,
 3d67e2ab-1d93-40c7-bdeb-b3185ff6d540,angelical.vin,available,11.99,,medium,low,9,name.com,,,
-69649ab6-ba05-4e45-89b0-fcbae24a6fb5,abundant.vin,available,11.99,77.99,high,low,8,name.com,,,
+69649ab6-ba05-4e45-89b0-fcbae24a6fb5,abundant.vin,available,6.98,75.98,medium,low,8,namecheap,,,21/09/2026 15:18
 3a6f4c8f-6507-4445-b2e2-5acc8e9b689f,sexwork.vin,available,11.99,,low,low,8,name.com,,,
 9cf6eb48-b518-4039-b695-cf212fc4a302,threat.vin,available,11.99,,medium,low,6,name.com,,,
 b09ccfe9-1305-4647-8b66-d30c1e167529,inquisitive.vin,available,11.99,,medium,low,11,name.com,,,
 613b2871-e6ee-4c4f-ae4b-9e04a4b8ddd1,audile.vin,available,6.98,75.98,low,low,6,namecheap,,,07/08/2026 16:40
-066fe17e-3a47-4433-9f0f-9910061071d7,aged.vin,available,11.99,77.99,high,low,4,name.com,,,
+066fe17e-3a47-4433-9f0f-9910061071d7,aged.vin,available,8.99,59.99,medium,low,4,namesilo,,,21/09/2026 22:26
 e1c2b835-245b-4b75-9578-c3af576b0632,axillary.vin,available,6.98,75.98,low,low,8,namecheap,,,
 64449cd0-c905-4b63-a606-c6037bb60c11,york.vin,available,11.99,,medium,low,4,name.com,,,
 8d94590b-1bb6-4cd2-904c-8adf7b62c015,disneyland.vin,available,11.99,,high,low,10,name.com,,,
@@ -526,7 +526,7 @@ c2b3577b-6f32-44cf-880b-3f22e52d8985,analogue.vin,available,6.98,75.98,low,low,8
 0474d907-cfbd-4ff7-b46e-98f86747c1d8,sexslave.vin,available,11.99,,medium,low,9,name.com,,,
 01565942-2d62-44bd-88bd-6fd73c788339,wrist.vin,available,11.99,,high,low,5,name.com,,,
 b2870544-efc0-44d2-a092-fc00d30cda9f,flack.vin,available,6.98,75.98,low,low,5,namecheap,,,
-ebb20860-5b14-421a-b69e-4fc62006ee8f,abovethefold.vin,available,11.99,,medium,low,14,name.com,,,
+ebb20860-5b14-421a-b69e-4fc62006ee8f,abovethefold.vin,available,11.99,,low,low,14,name.com,,,
 3619e2fc-ab35-4e52-96d5-1084c8f6b507,dogsofwar.vin,available,11.99,,high,low,11,name.com,,,
 4803e7d4-d517-45a7-a9a7-c80029213e8c,contingent.vin,available,11.99,77.99,high,low,10,name.com,,,
 04f24b4b-0c11-431e-b78c-412cdf4c6e34,spellcheck.vin,available,11.99,,high,low,11,name.com,,,
@@ -534,7 +534,7 @@ c9dd7d77-232d-44d6-a21d-f77429f596c8,skype.vin,available,,,high,low,5,,,,
 06767acf-f745-482c-bbf9-925d8216dec2,english.vin,premium,500,,high,low,7,name.com,,,
 b981cbc1-c7e1-4ae3-bd8d-aeee0766fa3f,granddaughterinlaw.vin,available,11.99,,high,low,20,name.com,,,
 afb54a22-a6e5-45f9-b526-1f7c74940dab,embrace.vin,available,11.99,,high,low,7,name.com,,,
-ef103d30-c50d-49ca-b8fb-085e891d4209,amiable.vin,available,11.99,77.99,high,low,7,name.com,,,
+ef103d30-c50d-49ca-b8fb-085e891d4209,amiable.vin,available,6.98,75.98,medium,low,7,namecheap,,,21/09/2026 21:32
 b26052da-53cd-438e-8eb8-7f0e07344fa4,howgoesit.vin,available,11.99,,medium,low,11,name.com,,,
 1338feac-1ccc-4c7e-9c64-45ff4b5dbceb,carryout.vin,available,11.99,,high,low,9,name.com,,,
 020365a7-e04f-489c-a1bb-146cb768479c,motherfugga.vin,available,11.99,,medium,low,11,name.com,,,
@@ -544,7 +544,7 @@ cd5a8322-620f-4b6a-8e8d-cdf3c2cb4d36,yelled.vin,available,11.99,,medium,low,6,na
 f9671728-d543-41f8-b2a6-48726237f629,thenagain.vin,available,11.99,,medium,low,10,name.com,,,
 9314ea25-7014-4386-991a-c8e19c1845d7,acrogenous.vin,available,6.98,75.98,low,low,10,namecheap,,,
 79cbd3b2-93cc-44fa-8036-7dc9db2797fe,fivestar.vin,available,11.99,,high,low,9,name.com,,,
-a6528bff-50d1-4a44-b80e-9d56cf42a78a,allegro.vin,available,11.99,,high,low,7,name.com,,,
+a6528bff-50d1-4a44-b80e-9d56cf42a78a,allegro.vin,available,8.99,59.99,medium,low,7,namesilo,,,22/09/2026 01:21
 9882619a-7158-49c1-adcc-c8d819823fa2,kitchen.vin,premium,118.8,118.8,medium,low,7,namesilo,,,
 9b228de0-c781-4bdb-958d-b3525d63cb39,thirtieth.vin,available,6.98,75.98,low,low,9,namecheap,,,
 217794d1-6690-44e9-97f8-935e40b0ad45,authorial.vin,available,6.98,75.98,low,low,9,namecheap,,,07/08/2026 16:19
@@ -605,17 +605,17 @@ d2cccf91-44d6-4cd7-93d3-ceb85cf3b492,receipt.vin,available,11.99,,high,low,7,nam
 071f179b-4603-4dc7-ac44-d143f6233fab,tongue.vin,available,11.99,,medium,low,6,name.com,,,
 ffe08ce7-f301-479f-9a93-87f909567ac9,illness.vin,available,11.99,,medium,low,7,name.com,,,
 0eea5b54-fa8c-4d25-8f99-f836ddd08b07,sneak.vin,available,11.99,,high,low,5,name.com,,,
-7e8e7805-d1f0-4a8f-980a-e10814d6524b,hundred.vin,available,11.99,77.99,high,low,7,name.com,,,
+7e8e7805-d1f0-4a8f-980a-e10814d6524b,hundred.vin,available,8.99,59.99,medium,low,7,namesilo,,,21/09/2026 11:00
 5c86ed3e-63d6-4cce-acd6-067fb1106325,anaphoric.vin,available,6.98,75.98,low,low,9,namecheap,,,
 28f0de91-d743-4d5f-bce8-4676118b4aba,touchbase.vin,available,11.99,,medium,low,10,name.com,,,
 267387a2-acd8-4716-ba76-34e2ed1da408,holycrap.vin,available,11.99,,medium,low,9,name.com,,,
-9eaa8d38-75dc-4168-bb91-b12e0948831c,engrossed.vin,available,11.99,77.99,high,low,9,name.com,,,
+9eaa8d38-75dc-4168-bb91-b12e0948831c,engrossed.vin,available,8.99,59.99,medium,low,9,namesilo,,,21/09/2026 15:00
 353d238a-1582-4073-ac6e-783efd8ce139,safety.vin,available,11.99,,high,low,6,name.com,,,
 99734a99-c41d-434b-809a-68e5c605401b,smartly.vin,available,11.99,,high,low,7,name.com,,,
 bc0d872a-c3c5-4d11-b194-2c4197b10145,publicity.vin,available,11.99,,high,low,9,name.com,,,
-f957fe18-8a1a-49f1-9f72-d6b125a7d4d8,leading.vin,available,11.99,77.99,high,low,7,name.com,,,
+f957fe18-8a1a-49f1-9f72-d6b125a7d4d8,leading.vin,available,8.99,59.99,medium,low,7,namesilo,,,21/09/2026 23:23
 182346e9-2562-4af7-8a31-be7842b6e9f7,nationalconvention.vin,available,11.99,,medium,low,19,name.com,,,
-cb7c38e4-ce9b-4cae-a3a2-081b6b3f7ef3,allergic.vin,available,11.99,77.99,high,low,8,name.com,,,
+cb7c38e4-ce9b-4cae-a3a2-081b6b3f7ef3,allergic.vin,available,6.98,75.98,medium,low,8,namecheap,,,22/09/2026 01:25
 7c9c9643-f951-45d0-8b84-79ddab5c3ec0,redhot.vin,available,11.99,,high,low,7,name.com,,,
 499a9ac4-cd89-471f-a772-9ff10164a4d9,capitol.vin,available,11.99,,medium,low,7,name.com,,,
 9d14d49d-d5f0-422a-9d8a-2e51c50cc385,einstein.vin,available,11.99,,high,low,8,name.com,,,
@@ -632,7 +632,7 @@ ed4bd018-4869-408d-9907-1ed747d4c405,gave.vin,available,11.99,,medium,low,4,name
 92c146d1-668e-4f6f-8aa7-dfe9ee2ef339,batholitic.vin,available,6.98,75.98,low,low,10,namecheap,,,09/08/2026 01:30
 ecc7ada1-9b38-4054-8f11-68363f69d0df,premium.vin,premium,500,,high,low,7,name.com,,,
 6a64696a-7e19-4da9-a6a0-096b638efa0a,computing.vin,available,8.99,59.99,medium,low,9,namesilo,,,19/09/2026 12:12
-7358c9b4-f556-4a3f-aeff-57c6822abcc2,deuce.vin,available,11.99,77.99,medium,low,5,name.com,,,
+7358c9b4-f556-4a3f-aeff-57c6822abcc2,deuce.vin,available,8.99,59.99,low,low,5,namesilo,,,21/09/2026 12:17
 6e63bcf3-1e02-4219-81e7-6aaa760a5617,profession.vin,available,11.99,,high,low,10,name.com,,,
 956e9454-2014-49eb-bdfb-61b3fe5a45a6,lost.vin,available,11.99,,medium,low,4,name.com,,,
 2ab50939-406f-4f11-83b6-3a14969aa2e6,barricaded.vin,available,6.98,75.98,low,low,10,namecheap,,,08/08/2026 20:31
@@ -663,7 +663,7 @@ f810a4fd-c3a0-4907-a9db-895e1d87f1dc,alexander.vin,available,11.99,,medium,low,9
 13de581f-f4b9-406f-9771-1e2f93faf5de,atrial.vin,available,6.98,75.98,low,low,6,namecheap,,,07/08/2026 14:24
 fb7347f6-8388-4b1e-8bea-4c460445c73d,toadfrog.vin,available,6.98,75.98,low,low,9,namecheap,,,05/08/2026 21:11
 e900b0db-6ca8-4fd6-83c7-ae181805142c,xlvi.vin,available,6.98,75.98,low,low,4,namecheap,,,
-3459e0c8-4000-415a-9ae7-27656a3d6759,wide.vin,available,11.99,77.99,high,low,4,name.com,,,
+3459e0c8-4000-415a-9ae7-27656a3d6759,wide.vin,available,6.98,75.98,low,low,4,namecheap,,,21/09/2026 16:15
 2a907484-f531-40cb-a86d-14956db70124,adulatory.vin,available,6.98,75.98,low,low,9,namecheap,,,
 05f31d3c-12fb-443f-b54c-b18c5e1fa0e5,offcolor.vin,available,6.98,75.98,low,low,9,namecheap,,,09/08/2026 02:10
 da4a86ef-ad88-4c15-9517-6e3c7218483a,regurgitate.vin,available,11.99,,high,low,11,name.com,,,
@@ -696,7 +696,7 @@ c19fc27f-d817-41d3-98ed-d864e785a9b4,antitank.vin,available,6.98,75.98,low,low,8
 0a409bb6-9c71-4c7d-a450-f4ddc72c7247,sophisticated.vin,available,11.99,,high,low,13,name.com,,,
 3f9f3ff7-a845-4249-8c95-9dd412d2075f,azoic.vin,available,6.98,75.98,low,low,5,namecheap,,,08/08/2026 02:22
 2cb9a7ae-1b92-4471-893d-1872d7a904b8,aol.vin,available,,,high,low,3,,,,
-5be1a0b8-dd20-43ae-b2cb-3c0bf564d035,accusation.vin,available,11.99,,medium,low,10,name.com,,,
+5be1a0b8-dd20-43ae-b2cb-3c0bf564d035,accusation.vin,available,11.99,,low,low,10,name.com,,,
 b3fee406-6327-404f-906e-488dead3f589,region.vin,premium,242,242,high,low,6,namesilo,,,
 c08404e7-bb5b-4611-b97e-1160c0d57dfc,acned.vin,available,6.98,75.98,low,low,5,namecheap,,,
 4deceaf3-67d4-4ac3-ad28-57fbff419f4f,magical.vin,available,11.99,,high,low,7,name.com,,,
@@ -742,7 +742,7 @@ ab6ae23c-fe56-405c-8c86-b0e273c21ed4,recipe.vin,available,11.99,,high,low,6,name
 5f89e7c8-6701-4b9e-9677-26867365cb72,cap.vin,available,11.99,,high,low,3,name.com,,,
 b0dd39ee-2c9c-4442-a667-c94bfebe1448,cutrate.vin,available,6.98,75.98,low,low,8,namecheap,,,08/08/2026 19:20
 c9b99ac6-02c5-4aa7-84cc-e303d1917ab7,commix.vin,available,6.98,75.98,medium,low,6,namecheap,,,
-a04d5a69-e800-4700-b7ba-1da1b04de98b,goon.vin,available,11.99,77.99,high,low,5,name.com,,,
+a04d5a69-e800-4700-b7ba-1da1b04de98b,goon.vin,available,11.99,77.99,low,low,5,name.com,,,21/09/2026 20:43
 aa203d56-a0b5-4461-9634-2bdc6ee0c5cf,mentioned.vin,available,11.99,,medium,low,9,name.com,,,
 4e9dbfb2-deac-4102-aa92-c4567c607f0d,adjuratory.vin,available,6.98,75.98,low,low,10,namecheap,,,
 84736676-1b87-4538-9d20-2e44a16119c8,anthropoid.vin,available,6.98,75.98,low,low,10,namecheap,,,
@@ -752,7 +752,7 @@ b02f5cd8-123a-4395-9d13-4621db436815,youre.vin,available,11.99,,medium,low,5,nam
 45440fa6-ad0f-4c45-8081-ddf5f83baab9,prenuptial.vin,available,11.99,,high,low,10,name.com,,,
 2abb3b91-4fb9-4fd2-9b21-3b3c5aeb9d9a,maintained.vin,available,11.99,,medium,low,10,name.com,,,
 2486a12b-3816-4fa8-b343-38da38e2b7bf,intensive.vin,available,11.99,,high,low,9,name.com,,,
-209b2e5a-001e-4f1a-89be-02e455d792e3,licenced.vin,available,11.99,77.99,medium,low,8,name.com,,,
+209b2e5a-001e-4f1a-89be-02e455d792e3,licenced.vin,available,8.99,59.99,low,low,8,namesilo,,,21/09/2026 15:56
 6e5e32a7-9acb-4ea1-87da-c46eff8a0dff,printable.vin,available,11.99,,high,low,9,name.com,,,
 1d90e40f-beb3-477f-a8f8-e8497999878c,melancholy.vin,available,11.99,,high,low,10,name.com,,,
 f77dc33f-29fe-4016-a02b-93545d9b701b,moi.vin,premium,118.8,118.8,high,low,3,namesilo,,,
@@ -780,13 +780,13 @@ bd2e95a2-900d-4546-a79c-22a60a6f75c0,endall.vin,available,11.99,,high,low,7,name
 c03528d3-87ad-48a6-a7ed-e2398b434058,referable.vin,available,6.98,75.98,low,low,9,namecheap,,,07/08/2026 01:28
 660d9199-1610-4ce2-a2fd-ef43bef30c2c,baronial.vin,available,6.98,75.98,low,low,8,namecheap,,,08/08/2026 20:11
 82cdeb1b-bf30-4ac1-914e-b2fdba0e76fa,score.vin,available,11.99,,high,low,5,name.com,,,
-052a647d-b239-4bf6-ace9-68989790d85d,xiv.vin,available,11.99,77.99,high,low,3,name.com,,,
-d098e380-50df-48b4-9cce-9f21b2f18d0d,substitute.vin,available,11.99,77.99,high,low,10,name.com,,,
+052a647d-b239-4bf6-ace9-68989790d85d,xiv.vin,available,8.99,59.99,medium,low,3,namesilo,,,21/09/2026 11:42
+d098e380-50df-48b4-9cce-9f21b2f18d0d,substitute.vin,available,8.99,59.99,medium,low,10,namesilo,,,22/09/2026 02:40
 a59d6686-60e5-4e3a-a0af-740e53ce4f8d,engrossing.vin,available,6.98,75.98,low,low,10,namecheap,,,
 2b476eff-c80b-4514-8cb5-75df9b160779,establishment.vin,available,11.99,,medium,low,13,name.com,,,
 2d0e0572-aabc-49d4-9474-18ccb5bea34e,sauna.vin,available,11.99,,high,low,5,name.com,,,
 85bb0910-8f07-48e6-a64b-72c0b755c23e,abducent.vin,available,6.98,75.98,low,low,8,namecheap,,,
-c226ad73-b31f-4b14-89c5-2beb73637485,alphameric.vin,available,11.99,77.99,medium,low,10,name.com,,,
+c226ad73-b31f-4b14-89c5-2beb73637485,alphameric.vin,available,8.99,59.99,low,low,10,namesilo,,,22/09/2026 02:12
 8a95187e-9289-4e80-9522-fc0d572c4875,screwloose.vin,available,11.99,,low,low,11,name.com,,,
 02d7946d-3cac-4660-b523-fb9784be4e35,night.vin,available,11.99,,high,low,5,name.com,,,
 177b8351-e528-493b-b4da-42121a5aad22,areolar.vin,available,6.98,75.98,low,low,7,namecheap,,,06/08/2026 17:41
@@ -806,7 +806,7 @@ e11e02cc-8434-4e9b-9a06-fb9abbca2ea9,assurgent.vin,available,6.98,75.98,low,low,
 d0b13390-04a9-4cfb-bc63-45c35bdb3312,charmed.vin,available,6.98,75.98,low,low,7,namecheap,,,09/08/2026 09:57
 b2d493e8-fb38-4798-a406-7d457fcd0069,sweetdreams.vin,available,11.99,,medium,low,12,name.com,,,
 fbbae7e0-565a-48f3-9371-3409134d612d,bruce.vin,available,11.99,,high,low,5,name.com,,,
-b20219f8-ff3b-4b89-9940-a81b7e701173,acappella.vin,available,11.99,77.99,medium,low,10,name.com,,,
+b20219f8-ff3b-4b89-9940-a81b7e701173,acappella.vin,available,8.99,59.99,low,low,10,namesilo,,,21/09/2026 13:25
 49c544bc-64c0-41df-9bc9-8a85249dfb82,arteriolar.vin,available,6.98,75.98,low,low,10,namecheap,,,06/08/2026 22:34
 228b913a-8bcf-48e2-9771-12b2792d61e0,dickens.vin,available,11.99,,high,low,7,name.com,,,
 e8811f3f-c498-462e-b6aa-33e4d9b92ea1,xcii.vin,available,6.98,75.98,low,low,4,namecheap,,,
@@ -837,7 +837,7 @@ f41997da-9137-48e0-ac3a-da6705bec766,chanukkah.vin,available,11.99,,medium,low,9
 c52a1834-1a56-476c-b3da-b805f111cbdf,daylight.vin,available,11.99,,high,low,8,name.com,,,
 7e2bf8c5-e880-4014-a265-7b430af042a5,instead.vin,available,11.99,,high,low,7,name.com,,,
 b8cce34c-f447-4120-973e-7cc860acb917,untoward.vin,available,6.98,75.98,low,low,8,namecheap,,,
-87106c47-8c87-441d-99d0-bcce8bfdada4,fullscale.vin,available,11.99,77.99,high,low,10,name.com,,,
+87106c47-8c87-441d-99d0-bcce8bfdada4,fullscale.vin,available,8.99,59.99,medium,low,10,namesilo,,,22/09/2026 00:50
 e36d4a7a-3906-48fb-bb24-34080c328c2e,firetruck.vin,available,11.99,,high,low,10,name.com,,,
 f3c188f3-2e9f-4b4d-a1fc-30aedf5be7d2,radical.vin,available,6.98,75.98,medium,low,7,namecheap,,,08/08/2026 21:21
 32b74dea-28bd-4691-a7cd-3c80ed70ac41,newchicago.vin,available,11.99,,low,low,11,name.com,,,
@@ -869,7 +869,7 @@ feb5d2ab-87a4-4e7f-9902-9f2f449a93a2,hardworking.vin,available,11.99,,high,low,1
 e67e2aea-e416-4646-9742-ec3fd217761f,appetent.vin,available,6.98,75.98,low,low,8,namecheap,,,06/08/2026 06:40
 287501e7-086e-4d02-afdc-f8b199175407,followedby.vin,available,11.99,,medium,low,11,name.com,,,
 b5d87e75-0ad0-4cac-9044-b02d60f8bc0f,kidney.vin,available,11.99,,medium,low,6,name.com,,,
-896a4dd2-721c-4895-9cba-0aaf864e619c,absurd.vin,available,6.98,75.98,low,low,6,namecheap,,,
+896a4dd2-721c-4895-9cba-0aaf864e619c,absurd.vin,available,6.98,75.98,medium,low,6,namecheap,,,
 de950791-e7e9-41b5-8799-8ad96a13d668,stone.vin,available,8.99,59.99,low,low,5,namesilo,,,19/09/2026 11:54
 d0ac0292-3fc5-484d-af0d-91a9d38de58e,original.vin,available,11.99,,high,low,8,name.com,,,
 869c4dc7-e93d-441d-bc00-647bf337b63d,starred.vin,available,6.98,75.98,low,low,7,namecheap,,,07/08/2026 08:52
@@ -944,7 +944,7 @@ e4ce6831-d832-4723-bf4c-8c9e6ac9618f,awnless.vin,available,6.98,75.98,medium,low
 54937b01-bf8c-425a-adfd-ea914b2d4fcd,copypronoun.vin,available,11.99,,high,low,12,name.com,,,
 1cca2d36-8bc1-4965-bdce-8000b6654c9c,viceversa.vin,available,8.99,59.99,low,low,10,namesilo,,,16/09/2026 08:33
 1a827740-e0c9-4049-ab39-5d48d9cc1338,generated.vin,available,8.99,59.99,low,low,9,namesilo,,,19/09/2026 12:09
-bf65656d-f35d-43b4-b86d-f3b3004da840,improvise.vin,available,11.99,77.99,high,low,9,name.com,,,
+bf65656d-f35d-43b4-b86d-f3b3004da840,improvise.vin,available,8.99,59.99,medium,low,9,namesilo,,,21/09/2026 16:45
 0d035d60-c516-4c6a-9eda-066e3a0debdc,uncontrollable.vin,available,11.99,,medium,low,14,name.com,,,
 36498fa3-82d3-40ea-b8a1-2231d3ed06c7,drone.vin,resell,11.99,,high,medium,5,Dynadot Inc,06/04/2026 11:38,06/04/2027 11:38,
 ab2a0ce2-3e55-41bb-9a54-811efd3a88da,babies.vin,available,11.99,,medium,low,6,name.com,,,
@@ -953,7 +953,6 @@ b7317f63-d8f5-45f7-8ccf-f4d36f17f396,midspring.vin,available,11.99,,high,low,10,
 b5fcfd2a-72d0-419c-8374-8e6ef227a685,fullgrown.vin,available,6.98,75.98,low,low,10,namecheap,,,
 e9bc9b2a-0f57-4c53-9fdd-90aea5e16466,mixture.vin,available,11.99,,high,low,7,name.com,,,
 bc723c0f-891d-43bf-8dc9-cf8a4300e11b,anechoic.vin,available,6.98,75.98,low,low,8,namecheap,,,
-2a41d70d-9f17-4e9f-9e49-14f3f7be2ecd,antique.vin,available,11.99,77.99,high,low,7,name.com,,,
 cb14a331-2a31-4073-a3e9-a5720d6466c7,enjoy.vin,premium,500,,high,medium,5,name.com,,,
 9070ce15-024c-43a4-bb0c-42d5aca7c03c,usage.vin,available,11.99,77.99,high,low,5,name.com,,,
 bebffcd7-43ab-4ca9-8b08-12594d90f843,aimless.vin,available,6.98,75.98,low,low,7,namecheap,,,
@@ -962,7 +961,7 @@ fc96ddf7-d3bb-4bf1-8566-69229e181eeb,christmastree.vin,available,11.99,,high,low
 dd442418-c46e-45d7-872d-4c9ed7e63aaf,alsatian.vin,available,6.98,75.98,low,low,8,namecheap,,,
 e1b61786-21a4-423e-b1e3-53025c7699fc,getinto.vin,available,11.99,,high,low,8,name.com,,,
 6e4b3f58-4857-4dc3-a9b5-06094ad2d14e,creation.vin,available,11.99,,high,low,8,name.com,,,
-0db2061b-afc7-457c-9c60-c99faf6eaabb,abnormal.vin,available,11.99,77.99,high,low,8,name.com,,,
+0db2061b-afc7-457c-9c60-c99faf6eaabb,abnormal.vin,available,8.99,59.99,low,low,8,namesilo,,,21/09/2026 14:04
 c9a1c50c-97d1-4e74-9418-426fd7f97c29,fingers.vin,available,11.99,,medium,low,7,name.com,,,
 9fba4255-ada5-41cd-9e0d-1d5006cf8824,strongly.vin,available,11.99,,medium,low,8,name.com,,,
 e4555f06-bf33-481b-a351-35e31394eb84,alberteinstein.vin,available,11.99,,high,low,15,name.com,,,
@@ -999,3 +998,4 @@ dc99a569-d2d8-4c23-a49d-3f2d273bfcef,assumed.vin,available,6.98,75.98,low,low,7,
 8e80985c-8c71-452b-a705-de1bee0b459b,comealive.vin,available,6.98,75.98,low,low,10,namecheap,,,08/08/2026 00:03
 3dbe0d7f-4b1d-453e-a9cb-5255bd6a10b3,informationengine.vin,available,11.99,,high,low,18,name.com,,,
 39658121-2a35-4a71-9888-f42536abd0f9,justmyluck.vin,available,11.99,,medium,low,12,name.com,,,
+a24a18be-fcd9-42a4-8bff-1a11ca498d28,behindhand.vin,available,6.98,75.98,low,low,10,namecheap,,,09/08/2026 12:12
