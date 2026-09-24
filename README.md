@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .vin one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,510 domains · **Median ask:** $11.36 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/vin`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| neck.vin  | available | $11.99    | —             | high           | low    | 4      | name.com                                     |
-| yes.vin   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                     |
-| axe.vin   | available | $11.99    | —             | medium         | low    | 3      | name.com                                     |
-| air.vin   | resell    | $11.99    | —             | medium         | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| ava.vin   | premium   | $500      | —             | high           | medium | 3      | name.com                                     |
-| azo.vin   | available | $6.98     | $75.98        | low            | low    | 3      | namecheap                                    |
-| base.vin  | resell    | $11.99    | —             | low            | low    | 4      | name.com                                     |
-| moi.vin   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| cap.vin   | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
-| drone.vin | resell    | $11.99    | —             | high           | medium | 5      | Dynadot Inc                                  |
-| usa.vin   | premium   | $242      | $242          | high           | medium | 3      | namesilo                                     |
-| end.vin   | available | $8.99     | $59.99        | medium         | low    | 3      | namesilo                                     |
-| for.vin   | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                 |
-| web.vin   | premium   | $520      | $520          | low            | low    | 3      | namecheap                                    |
-| hum.vin   | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
-| fun.vin   | resell    | —         | —             | medium         | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| wow.vin   | premium   | $242      | $242          | high           | medium | 3      | namesilo                                     |
-| ive.vin   | available | $11.99    | —             | medium         | low    | 3      | name.com                                     |
-| hit.vin   | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.                              |
-| lip.vin   | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| neck.vin   | available | $11.99    | —             | high           | low    | 4      | name.com                                     |
+| yes.vin    | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                     |
+| count.vin  | available | $11.99    | —             | high           | low    | 5      | name.com                                     |
+| smooth.vin | available | $11.99    | —             | high           | low    | 6      | name.com                                     |
+| less.vin   | available | $11.99    | —             | high           | low    | 4      | name.com                                     |
+| score.vin  | available | $11.99    | —             | high           | low    | 5      | name.com                                     |
+| axe.vin    | available | $11.99    | —             | medium         | low    | 3      | name.com                                     |
+| air.vin    | resell    | $11.99    | —             | medium         | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| ava.vin    | premium   | $500      | —             | high           | medium | 3      | name.com                                     |
+| azo.vin    | available | $6.98     | $75.98        | low            | low    | 3      | namecheap                                    |
+| base.vin   | resell    | $11.99    | —             | low            | low    | 4      | name.com                                     |
+| moi.vin    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
+| cap.vin    | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| task.vin   | resell    | $11.99    | —             | medium         | low    | 4      | name.com                                     |
+| usa.vin    | premium   | $242      | $242          | high           | medium | 3      | namesilo                                     |
+| end.vin    | available | $8.99     | $59.99        | medium         | low    | 3      | namesilo                                     |
+| drone.vin  | resell    | $11.99    | —             | high           | medium | 5      | Dynadot Inc                                  |
+| web.vin    | premium   | $520      | $520          | low            | low    | 3      | namecheap                                    |
+| hum.vin    | available | $11.99    | —             | high           | low    | 3      | name.com                                     |
+| for.vin    | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .VIN One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .VIN One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
